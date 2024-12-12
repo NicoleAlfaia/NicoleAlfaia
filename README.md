@@ -2,7 +2,7 @@
 ##
 - 🎓 Cursando Sistemas de Informação
 - 📚 Estudando Java, e Áreas da Robótica.
-- 📫 Email: nicolix35@gmail.com
+- 📫 Email: alfaianic@gmail.com
 - 📥 LinkedIn: https://www.linkedin.com/in/nicole-alfaia-a360b4221
 ##
   
