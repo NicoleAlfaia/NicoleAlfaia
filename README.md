@@ -1,6 +1,6 @@
 ### Oiee! Eu sou a Nicole Alfaia 🥰
 ##
-- 🎓 Cursando Sistemas de Informação
+- 🎓 Cursando Sistemas de Informação e Eletrotécnica
 - 📚 Estudando Java, e Áreas da Robótica.
 - 📫 Email: alfaianic@gmail.com
 - 📥 LinkedIn: https://www.linkedin.com/in/nicole-alfaia-a360b4221
